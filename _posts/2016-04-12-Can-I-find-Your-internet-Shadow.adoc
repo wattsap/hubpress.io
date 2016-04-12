@@ -1,0 +1,26 @@
+= Can I find Your [internet] Shadow?
+:hp-tags: Senior Seminar, hacking, stalking
+
+How active are you on the internet? Exactly what could others see, if they had a mind to? We decided to go find out. In our Senior Seminar class we grouped ourselves into 3-tuples, and set our devious hacker minds to the task.
+
+.*results of our, er, ...stalking included:*
+* current addresses
+* previous addresses
+* names, phone numbers, emails
+* parents/siblings addresses
+* parents/siblings names, phone numbers, emails
+* driving/police records
+* middle school grades
+* names of pets family has owned
+* current and previous educational bodies
+* news references
+* significant other's name, phone number, address
+* fields of study/work, current job locations
+* facebook/twitter/social media posts, which indicated things like:
+** political preferences
+** favorite foods
+** moods
+** typical outing locations
+
+The results, in my mind, were astounding. With a few hours, using the internet, you can determine where someone lives, works, frequently spends their time, their contact information, law/traffic violation history, educational history, and things about their personality. The same holds true for that persons family members. That scares me quite a lot. Someone could essentially build an assassination file with basic internet search functions. Makes you wonder what the toys the FBI/NSA have at their disposal.
+

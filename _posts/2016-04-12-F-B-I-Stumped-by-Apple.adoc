@@ -1,0 +1,19 @@
+= FBI Stumped by Apple
+:hp-tags: Senior Seminar, IPhone, Apple, FBI
+
+In a court case that has reached unprecedented levels of national publicity, the FBI has asked Apple to aid them in breaking into an IPhone 5c that has been encrypted by a terrorist. The phone in question has a standard encryption on it available to any IPhone owner, nothing fancy, that wipes the phone after 10 incorrect password attempts. The FBI believes that there is information on this IPhone that could benefit them in the arrest/apprehension of more terrorists.
+
+.*The details I find relevant:*
+* The IPhone four number password encryption system is unique in two ways:
+** The password cannot be entered extraneously, through another computer. It can ONLY be entered through touch
+** Apple does NOT have the tools on hand to break an IPhone's encryption. Each phone is encrypted individually, through a different private key, and Apple has no records of these keys. They have never developed software to circumvent this encryption
+* The FBI is not just asking for access to this IPhone, they are asking for a software update that allows backdoor access to any IPhone, so they do not have to go through this in this in the future.
+
+.*My jumbled mess of thoughts on the matter:*
+* The FBI has tried to get access to IPhone software before, but to no avail, and is probably pushing so strongly for this now because terrorist threats sketch everyone out and they are looking for sympathy
+Apple released a letter on their website detailing what is being asked, and what they are doing about it(not cooperating) for anyone with Apple technology. I think this was also very clever, because they garnered so much attention from the average IPhone-weilding Joe that there is now immense public pressure for Apple to not allow backdoor access to their operating system
+* Apple does not have the software to access this phone. They are being asked to produce something they do not have, which seems like a bad idea because if they cannot figure it out after being obligated to do so, what happens?
+* The government is attempting to require something of a private company. That irks me quite a lot in general because it could set the precedent for any number of future cases involving private proprietary technology being forcibly adapted by the government; it just feels a little to orwellian to me.
+* anyone who has ever jailbroken an IPhone could get you past a lock screen in about five minutes. Jailbreaking, while not condoned by Apple, is a common process that has been proven to be legal many times over. If the problem is this IPhone, then why not just do this and fix this IPhone instead of pushing for a permanent fix that affects millions of people, people that arent involved in the problem?
+
+At the end of the day, in my mind, approving something like this will allow the government to plunge straight down the rabbit hole into a sick variant of Alice in Wonderland, one that looks a lot like the Lego Movie. There are ways to break a single IPhone, and the FBI has to know this, so the push for open access to every IPhone feels a lot less like they want to catch some terrorists and a lot more like they want all encompassing power over the IPhone.

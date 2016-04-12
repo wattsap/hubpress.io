@@ -1,0 +1,11 @@
+= HiveTracks and Ethics
+:hp-tags: Senior Seminar, HiveTracks
+
+link:https://hivetracks.com/Default.aspx[HiveTracks] is a software developed in part by the department head of Computer Science at Appalachian State University, James Wilkes. As he happens to also teach Senior Seminar, he asked us to look into HiveTracks and come up with any possible ethical issues the software/published studies/human relations of HiveTracks might be causing within the subsets of privacy, security, and intellectual property. Ignoring the possible ethical issues involved in a professor getting free QA testing for his business from his students(just joking of course, sir) heres what we of the privacy group decided to look into:
+
+* is bee-keeper information accessible in any way(free of charge, by name, as a data dump to other companies, posted in studies, etc)?
+* is it required that a bee-keeper using the software participate in studies through their data in the cloud?
+** if so, are they paid for their efforts?
+* Who owns info stored through HiveTracks? Bee-keepers, software engineers, prominent company personnel?
+
+The class asked questions along this line to Dr. Wilkes, who responded in interesting ways. The discussion made clear that owning and operating a business is not as easy as it seems, and separation between users and developers and owners is no easy task, especially when you embody all of these roles(go Wilkes go!).

@@ -1,0 +1,10 @@
+= First Blog Post
+:hp-tags: Senior Seminar, programming
+
+Hi there, my name is Andrew Watts. For my first post, I will be explaining my best in-class and outside class coding experience.
+
+=== in-class: 
+Honestly, my favorite in class experience was working with databases is our final project for our Database class. It was something I had never done before, and it meant a lot to me to get to do it because my uncle works in databases and I didn't have much idea what that entailed until I got the experience of building and operating one myself.
+
+=== outside class: 
+i have worked on a few projects, some hard and some easy, but my favorite experiences have been in playing with esoteric programming languages like LOLCODE. They aren't terribly powerful, they aren't really beneficial for one project over another, but man they make you laugh, and after working on a serious project that is exactly what is needed in my opinion.

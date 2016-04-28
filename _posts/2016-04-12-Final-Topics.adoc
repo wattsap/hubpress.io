@@ -1,0 +1,12 @@
+= Final Topics
+:hp-tags: Senior Seminar, Final topic
+
+In my Senior Seminar class, we are assigned a 5-10min slide show and a 5-6 page paper detailing any current topic in regards to computers and general technology. There were several interesting topic ideas, although some seem as though they run paralell to others. This may be good or bad, because we may get different sides of an issue or we may just have to listen to the same project twice. 
+
+.*Interesting Project ideas:*
+* What is opensource?
+* The silk road and TOR
+* facebook permissions
+* Snowden and beyond
+* Fingerprint guns
+* rules regarding drones

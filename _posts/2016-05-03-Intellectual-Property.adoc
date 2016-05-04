@@ -1,0 +1,14 @@
+= Intellectual Property
+:hp-tags: Senior Seminar, Law, Casey Parks
+
+In my Senior Seminar class, we had Casey Parks come in and speak with us about the various intricacies of intellectual property in legal contexts. The Son of our very own Dr. Parks, Casey holds a bachelors in Computer Science, along with his Law degree. With this background, Casey has a good idea of what programmers might face in future litigations, and gave a presentation tailored to that effect. 
+
+Casey's presentation covered four basic fields:
+* *Patents*
+* *Copyright*
+* *Trademark*
+* *Trade Secret*
+
+An interesting part of the discussion to me revolved around Boeing and Airbus relations. Casey basically said that they attempt to have as many patents as they can, and when a suit comes from one company towards the other they respond by saying they will sue on infringement of one of their patents to equalize the damage, and then a reasonable compromise is found so neither company gets sued. 
+
+Overall, patents seem like a lot of trouble, and I hope I never have to personally file for one. 

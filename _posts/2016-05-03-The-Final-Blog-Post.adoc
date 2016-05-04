@@ -1,0 +1,18 @@
+= The Final Blog Post
+:hp-tags: Senior Seminar, It's Over!
+
+Well. The party's over. The semester is winding down, and for most people that means they are graduating! With the exception of myself and a few beloved classmates, these folks are going into the workforce to apply themselves to the worlds tech problems with gusto! There were a great many things I think this class taught us all, but I would like to personally focus on three of them:
+
+* *Ethics*
+** I never stopped to consider the ethics of the programming world. This class really brought some hard questions into perspective for me, and got the wheels turning on what I thought about different situations where computing ethics could be questioned. This was extremely important, because it is a thought process that, once started, cant be stopped.
+* *Awareness*
+** I have never been so aware of the actual goings on in the actual programming world as I am currently, and that is due in large part to this class. We looked at things that are actually happening in the world right now that affect programmers everywhere, and got to hear real people in the field and surrounding fields(law, business) speak and listen to what it was really like. We got to discuss global events that were barely hours old, and it was _AWESOME_. 
+* *There is more to a programmer than programming*
+** As cheesy as it sounds, it was eye-opening to watch youtube videos of the chair of my Computer Science department running around on his farm trying to recapture bees. I have always been a bit of an oddity in the department due to the fact that I managed a landscaping company, hunt, fish, shoot, work on cars, and a few other things that just generally aren't seen in our classmates. It was extremely relieving to see that a career in Computer Science does not mean that these things have to be sacrificed.
+
+As for those of you taking the class next year, a few thoughts:
+
+* do the blog posts before the last week
+* pick a final topic you actually care about
+* dont be to afraid to share an opinion, odds are someone else agrees
+* if you make Dr. Wilkes laugh, you get better grades!
